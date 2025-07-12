@@ -60,7 +60,7 @@
               &none  &none             &lt LCTRL ESC    &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp J   &kp K   &kp L  &kp SEMI &kp SQT &kp BSLH  &kp RET                 &kp UP                      &kp KP_N4    &kp KP_N5    &kp KP_N6    &kp KP_MINUS
 
         //  | Print |  Test |       | LSHIFT  |   <>  |   Z   |   X   |   C   |   V   |   B   |   N   |   M   |   ,   |   .   |   /   |        RSHIFT       |       | LEFT  | Blank | RIGHT |           | KP N1      | KP N2      | KP N3      | K ENT      |
-              &none  &none        &kp LSHFT &mt LGUI NUBS &kp Z &kp X   &kp C  &kp V   &kp B   &kp N   &kp M  &kp COMMA &kp DOT &kp FSLH     &rsift_capsword      &kp LEFT  &none  &kp RIGHT           &kp KP_N1    &kp KP_N2    &kp KP_N3    &kp KP_ENTER
+              &none  &none        &kp LSHFT &mt LGUI NUBS &kp Z &kp X   &kp C  &kp V   &kp B   &kp N   &kp M  &kp COMMA &kp DOT &kp FSLH     &rshift_capsword      &kp LEFT  &none  &kp RIGHT           &kp KP_N1    &kp KP_N2    &kp KP_N3    &kp KP_ENTER
 
         //  |  ??   |  ??   |       |   Reset   |       |    ALT    |                        SPACE                          |    ALT    |       |   Enter   |               | DOWN  |                   |     KP 0                | KP .       |            |
               &none  &none           &kp LALT            &kp GUI                        &kp SPACE                            &kp RALT          &kp RCTRL                  &kp DOWN                     &kp KP_N0                 &kp KP_DOT                              
